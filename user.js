@@ -6,6 +6,7 @@
 // @author       thundermikey
 // @match        https://mp.weixin.qq.com/s/*
 // @grant        none
+// @source       https://github.com/ThunderMikey/wechat-article-desktop-layout
 // ==/UserScript==
 
 (function() {
