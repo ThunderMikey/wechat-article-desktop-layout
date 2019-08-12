@@ -1,4 +1,5 @@
 // ==UserScript==
+// @name:        Wechat article desktop layout
 // @name:zh-CN   微信文章桌面排版
 // @name:en      Wechat article desktop layout
 // @namespace    http://tampermonkey.net/
