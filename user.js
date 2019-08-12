@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         微信文章桌面排版 | Wechat article desktop layout
+// @name:zh-CN   微信文章桌面排版
+// @name:en      Wechat article desktop layout
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  使文章撑满整个屏幕。消除手机排版横向文字过少的问题。Expand the article width to fit the screen.
+// @version      0.1.1
+// @description:en     Expand the article width to fit the screen.
+// @description:zh-CN  使文章撑满整个屏幕。消除手机排版横向文字过少的问题。
 // @author       thundermikey
 // @match        https://mp.weixin.qq.com/s/*
 // @grant        none
